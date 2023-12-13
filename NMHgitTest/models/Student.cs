@@ -8,5 +8,6 @@ namespace NMHgitTest.models
 {
     internal class Student
     {
+        public int Id { get; set; }
     }
 }
